@@ -1,0 +1,6 @@
+interval 时间间隔
+parameterss 参数
+best practice 最佳实践
+threshold value  阀值
+optimize 优化
+AWR report for Oracle
