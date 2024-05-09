@@ -4,3 +4,4 @@ best practice 最佳实践
 threshold value  阀值
 optimize 优化
 AWR report for Oracle
+escalation 升级
